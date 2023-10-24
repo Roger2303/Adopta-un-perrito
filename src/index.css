@@ -1,0 +1,24 @@
+
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5vw;
+  color: black;
+  background-image: url(https://img.freepik.com/vector-premium/dibujos-animados-hueso-patrones-fisuras-pata-perro_71328-1612.jpg?w=740);
+}
+
+.header {
+  background-color: blue;
+  height: 6vw;
+  color: white;
+  text-align: center;
+  padding: 1vw ;
+}
+
+.footer {
+  background-color: blue;
+  padding: 2vw;
+  margin-top: 1vw;
+}
